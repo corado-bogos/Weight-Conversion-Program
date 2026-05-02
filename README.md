@@ -1,4 +1,4 @@
-# Weight-Conversion-Program
+# weight_conversion_program
 This is a beginner-friendly Python project that converts weight between kilograms (kg) and pounds (lbs).
 
 The program:
